@@ -1,0 +1,8 @@
+(Memento, ) Se tiene un repositorio en github donde se sube código constantemente y se versiona
+en cada commit, con la posibilidad de poder volver a un commit específico.
+Adicionalmente, los desarrolladores pueden suscribirse al repositorio y recibir notificaciones
+cuando se vuelve/restaura un commit específico.
+- Adicionar mínimamente 3 desarrolladores suscritos al repositorio.
+- Tener 5 commits en el repositorio y volver al primer commit (commit 1).
+- Eliminar a los 3 desarrolladores y adicionar otros 3 nuevos desarrolladores.
+- Volver al último commit (commit 5).
